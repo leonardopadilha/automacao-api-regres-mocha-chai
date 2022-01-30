@@ -8,15 +8,15 @@ Como disse <a href="https://github.com/jonatasmfaria/api-test-simple">Jonatas Fa
 - <strong>Babel:</strong> <a href="https://github.com/babel/babel">Babel</a> é uma ferramenta que ajuda você a escrever código na versão mais recente do JavaScript. Quando seus ambientes com suporte não suportam determinados recursos nativamente, o Babel o ajudará a compilar esses recursos para uma versão com suporte. <a href="https://babeljs.io/">Documentação</a>.
 
 `
-npm install babel-preset-es2015 --save-dev
-npm install babel-cli --save-dev
+npm install babel-preset-es2015 --save-dev</br>
+npm install babel-cli --save-dev</br>
 npm install babel-core --save-dev
 `
 
 - <strong>Chai:</strong> <a href="https://www.chaijs.com/">Chai</a> é uma biblioteca de asserção BDD/TDD para o Node.js e o navegador que pode ser perfeitamente emparelhado com qualquer estrutura de teste de javascript. Chai possui diversas interfaces que permitem ao desenvolvedor escolher a mais confortável. Os estilos BDD com capacidade de cadeia fornecem uma linguagem expressiva e estilo legível, enquanto o estilo de afirmação TDD fornece uma sensação mais clássica. <a href="https://www.chaijs.com/">Documentação</a>.
 
 `
-npm install chai --save-dev
+npm install chai --save-dev</br>
 npm install chai-http --save-dev
 `
 
